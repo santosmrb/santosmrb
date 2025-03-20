@@ -1,7 +1,7 @@
 ## Hey There! 👋
 **I'm Marcos** - a mechanical engineer passionate about code based solutions!
 
-- ⚙️💻 working as product developer at [Luza](https://www.luzagroup.com), delivering web-based solutions to [Stellantis group](https://www.stellantis.com/en);<br>
+- ⚙️💻 working as product developer at [Luza](https://www.luzagroup.com), on projects related to engine calibration for the [Stellantis group](https://www.stellantis.com/en);<br>
 
 - 🧠⚡: currently using and constantly learning:<br/>
 
