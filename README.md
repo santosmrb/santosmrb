@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey There! 👋
+**I'm Marcos** - a mechanical engineer passionate about code based solutions!
 
-<!--
-**santosmrb/santosmrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚙️💻 working as product developer at [Luza](https://www.luzagroup.com), delivering web-based solutions to [Stellantis group](https://www.stellantis.com/en);<br>
 
-Here are some ideas to get you started:
+- 🧠⚡: currently using and constantly learning:<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   [![SkillIcons](https://skillicons.dev/icons?i=js,react,nodejs,matlab,py,postgres)](https://skillicons.dev)<br/>
+
+<details>
+  <summary>:bar_chart: :rocket: Github Stats </summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=santosmrb&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosmrb&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
